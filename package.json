@@ -1,0 +1,22 @@
+{
+  "name": "tesztjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sboti03/tesztjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sboti03/tesztjs/issues"
+  },
+  "homepage": "https://github.com/Sboti03/tesztjs#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
