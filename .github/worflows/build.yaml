@@ -23,7 +23,7 @@ jobs:
           - run: npx sass ./sass/style.scss ./build/css/style.css
           - run: ls -lha -/build/css/
           - name: Build
-          - uses: actions/setup-node@v3
+          - uses: actions/upload-node@v3
           with:
             name: build
             path: ./build/
